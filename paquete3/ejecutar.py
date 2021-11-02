@@ -1,4 +1,5 @@
-from cuentas import tarea
+from paquete3.cuentas import sumar
 
-tarea.numero(20)
-tarea.bisiesto(2021)
+sumar.sumas(23,22)
+
+
